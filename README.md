@@ -1,2 +1,2 @@
 # ForBat
-ForBat.exe a batch plugin made for formatting text in batch files.
+ForBat.exe is a batch plugin app made for formatting text in batch files.
